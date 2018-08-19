@@ -2,6 +2,4 @@
 
 Let's Lime!!
 
-## Short Introduction to Solidity
-
-A short and sweet intro to programming in Solidity for the Ethereum Blockchain
+Our Project is StudentCert
